@@ -1,4 +1,3 @@
-```markdown
 # 👋 Hi, I am Dennie Truong
 
 ### Data Analytics · Sports Analytics · Scientific Research
