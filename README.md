@@ -10,7 +10,7 @@ I'm particularly interested in **sports analytics, baseball operations, data vis
 
 ---
 
-## ⚾ Featured Projects
+## 🗂️ Featured Projects
 
 <table>
   <thead>
