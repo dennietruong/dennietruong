@@ -14,65 +14,60 @@ I'm particularly interested in **sports analytics, baseball operations, data vis
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-
-### ⚾ Baseball Batting Dashboard
-
-Interactive R Shiny dashboard analyzing individual and team batting performance across the 2025–2026 seasons.
-
-**[View Project →](https://dennietruong.github.io/BaseballBattingDashboard/)**
-
+    <td align="center" width="33%">
+      <h3>⚾</h3>
+      <strong>Baseball Batting Dashboard</strong>
+      <br><br>
+      R Shiny · Baseball Analytics
+      <br><br>
+      <a href="https://dennietruong.github.io/BaseballBattingDashboard/">View →</a>
     </td>
-    <td width="50%" valign="top">
 
-### ⚾ Baseball Pitching Dashboard
-
-Interactive dashboard analyzing pitching performance and comparing individual results with team averages.
-
-**[View Project →](https://dennietruong.github.io/BaseballPitchingDashboard/)**
-
+    <td align="center" width="33%">
+      <h3>⚾</h3>
+      <strong>Baseball Pitching Dashboard</strong>
+      <br><br>
+      R Shiny · Baseball Analytics
+      <br><br>
+      <a href="https://dennietruong.github.io/BaseballPitchingDashboard/">View →</a>
     </td>
-  </tr>
 
-  <tr>
-    <td width="50%" valign="top">
-
-### 🐚 Marine Neurotoxin Research
-
-Research investigating the accumulation and physiological effects of glutamatergic neurotoxins in intertidal sea stars.
-
-**[View Project →](https://github.com/dennietruong/EffectsKainicAcidSeaStar/)**
-
-    </td>
-    <td width="50%" valign="top">
-
-### 🌊 Algal Bloom & LANDSAT Analysis
-
-Environmental research analyzing potential drivers of algal blooms and using LANDSAT 8 imagery to characterize chlorophyll patterns in the James River.
-
-**[View Project →](https://github.com/dennietruong/AlgalBloomSARP)**
-
+    <td align="center" width="33%">
+      <h3>🐚</h3>
+      <strong>Marine Neurotoxin Research</strong>
+      <br><br>
+      Research · Data Analysis
+      <br><br>
+      <a href="https://github.com/dennietruong/EffectsKainicAcidSeaStar/">View →</a>
     </td>
   </tr>
 
   <tr>
-    <td width="50%" valign="top">
-
-### 🐦 Purple Martin Analysis
-
-Geospatial and temporal analysis of Purple Martin arrival patterns and population observations across the United States.
-
-**[View Project →](https://github.com/dennietruong/PurpleMartin/)**
-
+    <td align="center" width="33%">
+      <h3>🌊</h3>
+      <strong>Algal Bloom & LANDSAT</strong>
+      <br><br>
+      R · Geospatial Analysis
+      <br><br>
+      <a href="https://github.com/dennietruong/AlgalBloomSARP">View →</a>
     </td>
-    <td width="50%" valign="top">
 
-### 🎲 Random Name Generator
+    <td align="center" width="33%">
+      <h3>🐦</h3>
+      <strong>Purple Martin Analysis</strong>
+      <br><br>
+      R · Geospatial Analysis
+      <br><br>
+      <a href="https://github.com/dennietruong/PurpleMartin/">View →</a>
+    </td>
 
-Simple classroom tool that randomly selects students from an uploaded class roster.
-
-**[View Project →](https://dennietruong.github.io/RandomNameGenerator/)**
-
+    <td align="center" width="33%">
+      <h3>🎲</h3>
+      <strong>Random Name Generator</strong>
+      <br><br>
+      R · Education Tool
+      <br><br>
+      <a href="https://dennietruong.github.io/RandomNameGenerator/">View →</a>
     </td>
   </tr>
 </table>
