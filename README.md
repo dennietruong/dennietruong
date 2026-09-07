@@ -14,8 +14,8 @@ I'm particularly interested in **sports analytics, baseball operations, data vis
 | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | ⚾ **[Baseball Batting Dashboard](https://dennietruong.github.io/BaseballBattingDashboard/)**   | Interactive R Shiny dashboard analyzing individual and team batting performance across the 2025–2026 seasons.            |
 | ⚾ **[Baseball Pitching Dashboard](https://dennietruong.github.io/BaseballPitchingDashboard/)** | Interactive dashboard analyzing pitching performance and comparing individual results with team averages.                |
-| 🐚 **Marine Neurotoxin Research**                                                              | Research investigating the accumulation and physiological effects of glutamatergic neurotoxins in intertidal sea stars.  |
-| 🐦 **Purple Martin Analysis**                                                                  | Geospatial and temporal analysis of Purple Martin arrival patterns and population observations across the United States. |
+| 🐚 **[Marine Neurotoxin Research](https://github.com/dennietruong/EffectsKainicAcidSeaStar/)**                                                              | Research investigating the accumulation and physiological effects of glutamatergic neurotoxins in intertidal sea stars.  |
+| 🐦 **[Purple Martin Analysis](https://github.com/dennietruong/PurpleMartin)**                                                                  | Geospatial and temporal analysis of Purple Martin arrival patterns and population observations across the United States. |
 | 🎲 **[Random Name Generator](https://dennietruong.github.io/RandomNameGenerator/)**            | Simple classroom tool that randomly selects students from an uploaded class roster.                                      |
 
 ---
@@ -49,13 +49,15 @@ I'm particularly interested in **sports analytics, baseball operations, data vis
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=dennietruong\&theme=dark\&hide_border=true\&include_all_commits=true\&count_private=false)
+![](https://github-readme-stats.shion.dev/api?username=dennietruong\&theme=default_repocard\&hide_border=false\&include_all_commits=false\&count_private=false)
 
-![](https://streak-stats.demolab.com/?user=dennietruong\&theme=dark\&hide_border=true)
+![](https://streak-stats.demolab.com/?user=dennietruong\&theme=default_repocard\&hide_border=false)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=dennietruong\&theme=dark\&hide_border=true\&include_all_commits=true\&count_private=false\&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=dennietruong\&theme=default_repocard\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
 
 ---
+
+[![](https://komarev.com/ghpvc/?username=dennietruong\&icon=0\&color=0)](https://visitcount.itsvg.in)
 
 ### 🔬 Research · 📊 Analytics · ⚾ Sports
 
