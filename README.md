@@ -45,31 +45,35 @@ I'm particularly interested in **sports analytics, baseball operations, data vis
 
 ---
 
-## 🌐 Connect With Me
-
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dennietruong.github.io/)
+## 🌐 Connect With Me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dennietruong.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dennietruong)
 
 </div>
 
 ---
 
+<div align="center">
+
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=dennietruong&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)
+<img src="https://github-readme-stats.shion.dev/api?username=dennietruong&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false" />
 
-![](https://streak-stats.demolab.com/?user=dennietruong&theme=default_repocard&hide_border=false)
+<br/>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=dennietruong&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://streak-stats.demolab.com/?user=dennietruong&theme=default_repocard&hide_border=false" />
 
----
+<br/>
 
-[![](https://komarev.com/ghpvc/?username=dennietruong&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=dennietruong&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
-<div align="center">
+<br/>
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=dennietruong&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### 🔬 Research · 📊 Analytics · ⚾ Sports
 
