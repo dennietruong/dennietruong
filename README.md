@@ -19,7 +19,7 @@ I'm particularly interested in **sports analytics, baseball operations, data vis
 
 ⚾
 
-**[Baseball Batting](https://dennietruong.github.io/BaseballBattingDashboard/)**
+**Baseball Batting**
 
 <sub>R Shiny · Baseball Analytics</sub>
 
@@ -31,7 +31,7 @@ I'm particularly interested in **sports analytics, baseball operations, data vis
 
 ⚾
 
-**[Baseball Pitching](https://dennietruong.github.io/BaseballPitchingDashboard/)**
+**Baseball Pitching**
 
 <sub>R Shiny · Baseball Analytics</sub>
 
@@ -43,7 +43,7 @@ I'm particularly interested in **sports analytics, baseball operations, data vis
 
 🐚
 
-**[Marine Neurotoxin](https://github.com/dennietruong/EffectsKainicAcidSeaStar/)**
+**Marine Neurotoxin**
 
 <sub>Research · Data Analysis</sub>
 
@@ -57,7 +57,7 @@ I'm particularly interested in **sports analytics, baseball operations, data vis
 
 🌊
 
-**[Algal Bloom & LANDSAT](https://github.com/dennietruong/AlgalBloomSARP)**
+**Algal Bloom & LANDSAT**
 
 <sub>R · Geospatial Analysis</sub>
 
@@ -67,9 +67,9 @@ I'm particularly interested in **sports analytics, baseball operations, data vis
 
 <td width="33%" align="center" valign="top">
 
-🐦
+🐦‍⬛
 
-**[Purple Martin](https://github.com/dennietruong/PurpleMartin/)**
+**Purple Martin**
 
 <sub>R · Geospatial Analysis</sub>
 
@@ -81,7 +81,7 @@ I'm particularly interested in **sports analytics, baseball operations, data vis
 
 🎲
 
-**[Random Name Generator](https://dennietruong.github.io/RandomNameGenerator/)**
+**Random Name Generator**
 
 <sub>R · Education Tool</sub>
 
