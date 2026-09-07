@@ -55,7 +55,7 @@ I'm particularly interested in **sports analytics, baseball operations, data vis
 
 <td width="25%" align="center" valign="top">
 
-⭐🪸
+🪸
 
 **Marine Neurotoxin**
 
