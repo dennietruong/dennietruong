@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Dennie Truong
+# 👋 Hi, I am Dennie Truong
 
 ### Data Analytics · Sports Analytics · Scientific Research
 
-I'm a **Colby College graduate** with a background in Environmental Science, Biology, and Mathematics. I enjoy using data to investigate complex questions, identify patterns, and build analytical tools that turn data into actionable insights.
+As a recent graduate student from Colby College, I am passionate about learning new things through immersive experiences, building connections, and trying new/complex tasks. With an extensive background in research, I offer expertise in data analytics, programming in Python, R, and SQL, statistical analysis, and experience in academic publication. My enthusiasm for sports inspired me to merge my strengths through my roles as an educator and researcher in my position as baseball coach, with the long-term goal of becoming a data analyst for a professional sports team.
 
 I'm particularly interested in **sports analytics, baseball operations, data visualization, and research**.
 
