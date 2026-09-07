@@ -98,4 +98,3 @@ I'm particularly interested in **sports analytics, baseball operations, data vis
 *Using data to ask better questions and build better solutions.*
 
 </div>
-```
