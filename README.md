@@ -10,7 +10,7 @@ I'm particularly interested in **sports analytics, baseball operations, data vis
 
 ---
 
-## 🗂️ Featured Projects
+## 📚 Featured Projects
 
 <table>
   <thead>
@@ -37,7 +37,7 @@ I'm particularly interested in **sports analytics, baseball operations, data vis
       <td>Environmental research analyzing potential drivers of algal blooms and using LANDSAT 8 imagery to characterize chlorophyll patterns in the James River.</td>
     </tr>
     <tr>
-      <td>🐦 <a href="https://github.com/dennietruong/PurpleMartin/">Purple Martin Analysis</a></td>
+      <td>🐦‍⬛ <a href="https://github.com/dennietruong/PurpleMartin/">Purple Martin Analysis</a></td>
       <td>Geospatial and temporal analysis of Purple Martin arrival patterns and population observations across the United States.</td>
     </tr>
     <tr>
