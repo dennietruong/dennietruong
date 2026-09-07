@@ -41,6 +41,20 @@ I'm particularly interested in **sports analytics, baseball operations, data vis
 
 <td width="33%" align="center" valign="top">
 
+🏐
+
+**Volleyball Dashboard**
+
+<sub>R Shiny · Volleyball Analytics</sub>
+
+<a href="https://dennietruong.github.io/VolleyballDashboard/">View →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" align="center" valign="top">
+
 🐚
 
 **Marine Neurotoxin**
@@ -50,9 +64,7 @@ I'm particularly interested in **sports analytics, baseball operations, data vis
 <a href="https://github.com/dennietruong/EffectsKainicAcidSeaStar/">View →</a>
 
 </td>
-</tr>
 
-<tr>
 <td width="33%" align="center" valign="top">
 
 🌊
@@ -76,6 +88,20 @@ I'm particularly interested in **sports analytics, baseball operations, data vis
 <a href="https://github.com/dennietruong/PurpleMartin/">View →</a>
 
 </td>
+</tr>
+
+<tr>
+<td width="33%" align="center" valign="top">
+
+🦠
+
+**COVID Research**
+
+<sub>Research · Data Analysis</sub>
+
+<a href="#">View →</a>
+
+</td>
 
 <td width="33%" align="center" valign="top">
 
@@ -86,6 +112,18 @@ I'm particularly interested in **sports analytics, baseball operations, data vis
 <sub>R · Education Tool</sub>
 
 <a href="https://dennietruong.github.io/RandomNameGenerator/">View →</a>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+📊
+
+**More Projects**
+
+<sub>Data · Research · Analytics</sub>
+
+<a href="https://github.com/dennietruong?tab=repositories">View →</a>
 
 </td>
 </tr>
@@ -141,6 +179,6 @@ I'm particularly interested in **sports analytics, baseball operations, data vis
 
 ### 🔬 Research · 📊 Analytics · ⚾ Sports
 
-*Using data to ask better questions and build better solutions.*
 
 </div>
+
