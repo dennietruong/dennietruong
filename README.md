@@ -10,10 +10,9 @@ I'm particularly interested in **sports analytics, baseball operations, data vis
 
 ---
 
-<div align="center">
-
 ## ⚾ Featured Projects
 
+<div align="center">
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
