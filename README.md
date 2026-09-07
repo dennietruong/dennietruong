@@ -1,3 +1,4 @@
+```markdown
 # 👋 Hi, I am Dennie Truong
 
 ### Data Analytics · Sports Analytics · Scientific Research
@@ -29,8 +30,6 @@ I'm particularly interested in **sports analytics, baseball operations, data vis
 
 ---
 
-<div align="center">
-
 ## 💻 Tech Stack
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -41,18 +40,12 @@ I'm particularly interested in **sports analytics, baseball operations, data vis
 ![R Shiny](https://img.shields.io/badge/R%20Shiny-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 🌐 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dennietruong.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dennietruong)
-
-</div>
 
 ---
 
@@ -80,3 +73,4 @@ I'm particularly interested in **sports analytics, baseball operations, data vis
 *Using data to ask better questions and build better solutions.*
 
 </div>
+```
