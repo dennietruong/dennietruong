@@ -2,7 +2,7 @@
 
 ### Data Analytics · Sports Analytics · Scientific Research
 
-As a recent graduate student from Colby College, I am passionate about learning new things through immersive experiences, building connections, and trying new/complex tasks. With an extensive background in research, I offer expertise in data analytics, programming in Python, R, and SQL, statistical analysis, and experience in academic publication. My enthusiasm for sports inspired me to merge my strengths through my roles as an educator and researcher in my position as baseball coach, with the long-term goal of becoming a data analyst for a professional sports team.
+As a recent graduate student from Colby College (2024), I am passionate about learning new things through immersive experiences, building connections, and trying new/complex tasks. With an extensive background in research, I offer expertise in data analytics, programming in Python, R, and SQL, statistical analysis, and experience in academic publication. My enthusiasm for sports inspired me to merge my strengths through my roles as an educator and researcher in my position as baseball coach, with the long-term goal of becoming a data analyst for a professional sports team.
 
 I'm particularly interested in **sports analytics, baseball operations, data visualization, and research**.
 
@@ -10,13 +10,14 @@ I'm particularly interested in **sports analytics, baseball operations, data vis
 
 ## ⚾ Featured Projects
 
-| Project                                                                                        | Description                                                                                                              |
-| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| ⚾ **[Baseball Batting Dashboard](https://dennietruong.github.io/BaseballBattingDashboard/)**   | Interactive R Shiny dashboard analyzing individual and team batting performance across the 2025–2026 seasons.            |
-| ⚾ **[Baseball Pitching Dashboard](https://dennietruong.github.io/BaseballPitchingDashboard/)** | Interactive dashboard analyzing pitching performance and comparing individual results with team averages.                |
-| 🐚 **[Marine Neurotoxin Research](https://github.com/dennietruong/EffectsKainicAcidSeaStar/)**                                                              | Research investigating the accumulation and physiological effects of glutamatergic neurotoxins in intertidal sea stars.  |
-| 🐦 **[Purple Martin Analysis](https://github.com/dennietruong/PurpleMartin)**                                                                  | Geospatial and temporal analysis of Purple Martin arrival patterns and population observations across the United States. |
-| 🎲 **[Random Name Generator](https://dennietruong.github.io/RandomNameGenerator/)**            | Simple classroom tool that randomly selects students from an uploaded class roster.                                      |
+| Project                                                                                        | Description                                                                                                                                             |
+| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ⚾ **[Baseball Batting Dashboard](https://dennietruong.github.io/BaseballBattingDashboard/)**   | Interactive R Shiny dashboard analyzing individual and team batting performance across the 2025–2026 seasons.                                           |
+| ⚾ **[Baseball Pitching Dashboard](https://dennietruong.github.io/BaseballPitchingDashboard/)** | Interactive dashboard analyzing pitching performance and comparing individual results with team averages.                                               |
+| 🌊 **Algal Bloom & LANDSAT Analysis**                                                          | Environmental research analyzing potential drivers of algal blooms and using LANDSAT 8 imagery to characterize chlorophyll patterns in the James River. |
+| 🐚 **Marine Neurotoxin Research**                                                              | Research investigating the accumulation and physiological effects of glutamatergic neurotoxins in intertidal sea stars.                                 |
+| 🐦 **Purple Martin Analysis**                                                                  | Geospatial and temporal analysis of Purple Martin arrival patterns and population observations across the United States.                                |
+| 🎲 **[Random Name Generator](https://dennietruong.github.io/RandomNameGenerator/)**            | Simple classroom tool that randomly selects students from an uploaded class roster.                                                                     |
 
 ---
 
@@ -42,6 +43,8 @@ I'm particularly interested in **sports analytics, baseball operations, data vis
 ---
 
 ## 🌐 Connect With Me
+
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://dennietruong.github.io/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/dennietruong)
 
