@@ -45,7 +45,7 @@ I'm particularly interested in **sports analytics, baseball operations, data vis
   <tr>
     <td align="center" width="33%">
       <h3>🌊</h3>
-      <strong>Algal Bloom & LANDSAT</strong>
+      <strong>Algal Bloom &amp; LANDSAT</strong>
       <br><br>
       R · Geospatial Analysis
       <br><br>
@@ -123,3 +123,4 @@ I'm particularly interested in **sports analytics, baseball operations, data vis
 *Using data to ask better questions and build better solutions.*
 
 </div>
+```
