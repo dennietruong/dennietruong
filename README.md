@@ -13,63 +13,81 @@ I'm particularly interested in **sports analytics, baseball operations, data vis
 ## ⚾ Featured Projects
 
 <table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>⚾</h3>
-      <strong>Baseball Batting Dashboard</strong>
-      <br><br>
-      R Shiny · Baseball Analytics
-      <br><br>
-      <a href="https://dennietruong.github.io/BaseballBattingDashboard/">View →</a>
-    </td>
+<tr>
+<td width="33%" align="center" valign="top">
 
-    <td align="center" width="33%">
-      <h3>⚾</h3>
-      <strong>Baseball Pitching Dashboard</strong>
-      <br><br>
-      R Shiny · Baseball Analytics
-      <br><br>
-      <a href="https://dennietruong.github.io/BaseballPitchingDashboard/">View →</a>
-    </td>
+⚾
 
-    <td align="center" width="33%">
-      <h3>🐚</h3>
-      <strong>Marine Neurotoxin Research</strong>
-      <br><br>
-      Research · Data Analysis
-      <br><br>
-      <a href="https://github.com/dennietruong/EffectsKainicAcidSeaStar/">View →</a>
-    </td>
-  </tr>
+**[Baseball Batting](https://dennietruong.github.io/BaseballBattingDashboard/)**
 
-  <tr>
-    <td align="center" width="33%">
-      <h3>🌊</h3>
-      <strong>Algal Bloom &amp; LANDSAT</strong>
-      <br><br>
-      R · Geospatial Analysis
-      <br><br>
-      <a href="https://github.com/dennietruong/AlgalBloomSARP">View →</a>
-    </td>
+<sub>R Shiny · Baseball Analytics</sub>
 
-    <td align="center" width="33%">
-      <h3>🐦</h3>
-      <strong>Purple Martin Analysis</strong>
-      <br><br>
-      R · Geospatial Analysis
-      <br><br>
-      <a href="https://github.com/dennietruong/PurpleMartin/">View →</a>
-    </td>
+<a href="https://dennietruong.github.io/BaseballBattingDashboard/">View →</a>
 
-    <td align="center" width="33%">
-      <h3>🎲</h3>
-      <strong>Random Name Generator</strong>
-      <br><br>
-      R · Education Tool
-      <br><br>
-      <a href="https://dennietruong.github.io/RandomNameGenerator/">View →</a>
-    </td>
-  </tr>
+</td>
+
+<td width="33%" align="center" valign="top">
+
+⚾
+
+**[Baseball Pitching](https://dennietruong.github.io/BaseballPitchingDashboard/)**
+
+<sub>R Shiny · Baseball Analytics</sub>
+
+<a href="https://dennietruong.github.io/BaseballPitchingDashboard/">View →</a>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+🐚
+
+**[Marine Neurotoxin](https://github.com/dennietruong/EffectsKainicAcidSeaStar/)**
+
+<sub>Research · Data Analysis</sub>
+
+<a href="https://github.com/dennietruong/EffectsKainicAcidSeaStar/">View →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" align="center" valign="top">
+
+🌊
+
+**[Algal Bloom & LANDSAT](https://github.com/dennietruong/AlgalBloomSARP)**
+
+<sub>R · Geospatial Analysis</sub>
+
+<a href="https://github.com/dennietruong/AlgalBloomSARP">View →</a>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+🐦
+
+**[Purple Martin](https://github.com/dennietruong/PurpleMartin/)**
+
+<sub>R · Geospatial Analysis</sub>
+
+<a href="https://github.com/dennietruong/PurpleMartin/">View →</a>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+🎲
+
+**[Random Name Generator](https://dennietruong.github.io/RandomNameGenerator/)**
+
+<sub>R · Education Tool</sub>
+
+<a href="https://dennietruong.github.io/RandomNameGenerator/">View →</a>
+
+</td>
+</tr>
 </table>
 
 ---
