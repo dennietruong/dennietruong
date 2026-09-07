@@ -13,9 +13,11 @@ I'm particularly interested in **sports analytics, baseball operations, data vis
 ## 🗂️ Featured Projects
 
 <div align="center">
+
 <table>
 <tr>
-<td width="33%" align="center" valign="top">
+
+<td width="25%" align="center" valign="top">
 
 ⚾
 
@@ -27,7 +29,7 @@ I'm particularly interested in **sports analytics, baseball operations, data vis
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 
 ⚾
 
@@ -39,7 +41,7 @@ I'm particularly interested in **sports analytics, baseball operations, data vis
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 
 🏐
 
@@ -50,10 +52,8 @@ I'm particularly interested in **sports analytics, baseball operations, data vis
 <a href="https://dennietruong.github.io/VolleyballDashboard/">View →</a>
 
 </td>
-</tr>
 
-<tr>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 
 🐚
 
@@ -65,7 +65,11 @@ I'm particularly interested in **sports analytics, baseball operations, data vis
 
 </td>
 
-<td width="33%" align="center" valign="top">
+</tr>
+
+<tr>
+
+<td width="25%" align="center" valign="top">
 
 🌊
 
@@ -77,7 +81,7 @@ I'm particularly interested in **sports analytics, baseball operations, data vis
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 
 🐦‍⬛
 
@@ -88,10 +92,8 @@ I'm particularly interested in **sports analytics, baseball operations, data vis
 <a href="https://github.com/dennietruong/PurpleMartin/">View →</a>
 
 </td>
-</tr>
 
-<tr>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 
 🦠
 
@@ -103,7 +105,7 @@ I'm particularly interested in **sports analytics, baseball operations, data vis
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 
 🎲
 
@@ -115,17 +117,6 @@ I'm particularly interested in **sports analytics, baseball operations, data vis
 
 </td>
 
-<td width="33%" align="center" valign="top">
-
-📊
-
-**More Projects**
-
-<sub>Data · Research · Analytics</sub>
-
-<a href="https://github.com/dennietruong?tab=repositories">View →</a>
-
-</td>
 </tr>
 </table>
 
@@ -178,7 +169,6 @@ I'm particularly interested in **sports analytics, baseball operations, data vis
 [![Profile Views](https://komarev.com/ghpvc/?username=dennietruong&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### 🔬 Research · 📊 Analytics · ⚾ Sports
-
 
 </div>
 
