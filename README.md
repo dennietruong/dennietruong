@@ -12,14 +12,40 @@ I'm particularly interested in **sports analytics, baseball operations, data vis
 
 ## ⚾ Featured Projects
 
-| Project | Description |
-|---|---|
-| ⚾ **[Baseball Batting Dashboard](https://dennietruong.github.io/BaseballBattingDashboard/)** | Interactive R Shiny dashboard analyzing individual and team batting performance across the 2025–2026 seasons. |
-| ⚾ **[Baseball Pitching Dashboard](https://dennietruong.github.io/BaseballPitchingDashboard/)** | Interactive dashboard analyzing pitching performance and comparing individual results with team averages. |
-| 🐚 **[Marine Neurotoxin Research](https://github.com/dennietruong/EffectsKainicAcidSeaStar/)** | Research investigating the accumulation and physiological effects of glutamatergic neurotoxins in intertidal sea stars. |
-| 🌊 **[Algal Bloom & LANDSAT Analysis](https://github.com/dennietruong/AlgalBloomSARP)** | Environmental research analyzing potential drivers of algal blooms and using LANDSAT 8 imagery to characterize chlorophyll patterns in the James River. |
-| 🐦 **[Purple Martin Analysis](https://github.com/dennietruong/PurpleMartin/)** | Geospatial and temporal analysis of Purple Martin arrival patterns and population observations across the United States. |
-| 🎲 **[Random Name Generator](https://dennietruong.github.io/RandomNameGenerator/)** | Simple classroom tool that randomly selects students from an uploaded class roster. |
+<table>
+  <thead>
+    <tr>
+      <th><h3>Project</h3></th>
+      <th><h3>Description</h3></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>⚾ <a href="https://dennietruong.github.io/BaseballBattingDashboard/">Baseball Batting Dashboard</a></td>
+      <td>Interactive R Shiny dashboard analyzing individual and team batting performance across the 2025–2026 seasons.</td>
+    </tr>
+    <tr>
+      <td>⚾ <a href="https://dennietruong.github.io/BaseballPitchingDashboard/">Baseball Pitching Dashboard</a></td>
+      <td>Interactive dashboard analyzing pitching performance and comparing individual results with team averages.</td>
+    </tr>
+    <tr>
+      <td>🐚 <a href="https://github.com/dennietruong/EffectsKainicAcidSeaStar/">Marine Neurotoxin Research</a></td>
+      <td>Research investigating the accumulation and physiological effects of glutamatergic neurotoxins in intertidal sea stars.</td>
+    </tr>
+    <tr>
+      <td>🌊 <a href="https://github.com/dennietruong/AlgalBloomSARP">Algal Bloom &amp; LANDSAT Analysis</a></td>
+      <td>Environmental research analyzing potential drivers of algal blooms and using LANDSAT 8 imagery to characterize chlorophyll patterns in the James River.</td>
+    </tr>
+    <tr>
+      <td>🐦 <a href="https://github.com/dennietruong/PurpleMartin/">Purple Martin Analysis</a></td>
+      <td>Geospatial and temporal analysis of Purple Martin arrival patterns and population observations across the United States.</td>
+    </tr>
+    <tr>
+      <td>🎲 <a href="https://dennietruong.github.io/RandomNameGenerator/">Random Name Generator</a></td>
+      <td>Simple classroom tool that randomly selects students from an uploaded class roster.</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
